@@ -17,7 +17,7 @@
     "oauth": ">=0.8.4", 
     "cookies": "0.1.x",
     "keygrip": "0.2.x",
-    "needle": "https://github.com/mhayashi/needle.git"
+    "needle": "git://github.com/mhayashi/needle.git"
   }, 
   "engines": {"node":">=0.4.0"}, 
   "main": "./lib/twitter"
